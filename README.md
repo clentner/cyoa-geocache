@@ -1,7 +1,7 @@
 Choose Your Own Tour
 ===
 
-![The app in action](screenshot.png)
+<img alt="The app in action" src="screenshot.png" w=360 h=640>
 
 Combine the interactive outdoor experience of geocaching with the endless
 possibilities of choose your own adventure games. Allow visitors to choose
