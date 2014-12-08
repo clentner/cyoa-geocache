@@ -1,0 +1,129 @@
+{
+	"mapOptions": {
+		"center": {
+			"lat": 43.084157,
+			"long": -77.677438
+		},
+		"mapTypeControl": true,
+		"MapTypeControlOptions": {
+			"mapTypeIds": [
+				"Roadmap",
+				"Satellite", 
+				"Hybrid", 
+				"Terrain"
+			]},
+		"overviewMapControl": false,
+		"streetViewControl": false,
+		"tilt": 0,
+		"zoom": 15,
+		"zoomControl": true
+	},
+	"points": [
+		{
+			"position": {"lat": 43.084627, "long": -77.674358},
+			"next": {"student alumni union": 1, "sau" : 1, "alumni union" : 1, "eastman" : 11, "eastman hall" : 11, "george eastman" : 11, "george eastman hall" : 11, "paley" : 16},
+			"text": "<b>Campus Life & Activities:</b> Look behind you to find the cultural hub of campus; this building houses Ben & Jerry’s, Artesano, club and campus offices, and more.<br/><b>Donors:</b> Looking west, the office of the 9th president of the Institute, Bill Destler, is visible on the top floor of this tall building.<br/><b>Colleges</b>: Enter the name of the artist that created this statue to unlock the next set of coordinates."
+		},
+		{
+			"position": {"lat": 43.084146, "long": -77.674532},
+			"next": {"ritz": 2, "ritz sports zone": 2, "fireside lounge" : 8, "fireside" : 8},
+			"text": "<b>Campus Life:</b> This place is hidden away in the basement, but can hold a giant party if needed.<br/><b>Activities:</b> This lounge consistently has classy piano music playing and has puppies to play with during finals week to de-stress."
+		},
+		{
+			"position": {"lat": 43.083817, "long": -77.674835},
+			"next": {"wallace" : 3, "wallace library" : 3, "wallace center" : 3, "the wallace center" : 3},
+			"text": "Looking out the west window, the main study area on campus is visible from the RITz."
+		},
+		{
+			"position": {"lat": 43.084174, "long": -77.676420},
+			"next": {"java wally's" : 4, "java wallys" : 4},
+			"text": "Dehydrated from studying too hard? Stop by this coffee shop in the same building."
+		},
+		{
+			"position": {"lat": 43.083079, "long": -77.680677},
+			"next": {"salsarita's" : 5, "salsaritas" : 5},
+			"text": "Looking for a quick quesadilla or nachos? Check out this popular place in Global Village."
+		},
+		{
+			"position": {"lat": 43.083079, "long": -77.680677},
+			"next": {"gordon" : 6, "field house" : 6, "gordon field house" : 6},
+			"text": "Eat too much today? Come to this building to work it off - free gym entry with a student ID."
+		},
+		{
+			"position": {"lat": 43.085290, "long": -77.672464},
+			"next": {"infinity" : 7, "infinity quad" : 7},
+			"text": "This quad is the center of the academic side of campus, with a statue of a mobius strip in the middle, where it gets its name."
+		},
+		{
+			"position": {"lat": 43.084244, "long": -77.676982},
+			"next": {"sentinel" : 0},
+			"text": "Congratulations on finding your way through, and thanks for participating in this RIT geocache tour. To choose a different path, return to the Sentinel and enter the secret word 'Sentinel.'"
+		},
+		{
+			"position": {"lat" : 43.083833, "long": -77.673923},
+			"next": {"gene polisseni" : 9, "polisseni" : 9},
+			"text": "This donor’s name adorns the new $38 million ice arena visible from the Fireside Lounge’s south windows and the Kodak quad."
+		},
+		{
+			"position": {"lat" : 43.083159, "long": -77.674887},
+			"next": { "gene" : 10, "polisseni": 13},
+			"text": "<b>Activities:</b> Come visit the older ice arena on campus, where there is open skate several times throughout the week. Beginners are welcome to fall as many times as they please. Enter the first name of the ice rink donor.<br/><b>Donors:</b> This Rochester-based company has its name on the building that houses the admissions office on the north side of campus. Enter the last name of the ice rink donor"
+		},
+		{
+			"position": {"lat" : 43.084932, "long": -77.673615},
+			"next": {"gordon" : 6, "field house" : 6, "gordon field house" : 6},
+			"text": "Eat too much today? Come to this building to work it off - free gym entry with a student ID."
+		},
+		{
+			"position": {"lat" : 43.084329, "long": -77.674944},
+			"next": {"kodak" : 12, "eastman kodak" : 12},
+			"text": "The quad directly next to the Eastman building carries the name of George Eastman as well, who founded this company."
+		},
+		{
+			"position": {"lat" : 43.084338, "long": -77.675552},
+			"next": {"gene polisseni" : 9, "polisseni" : 9},
+			"text": "This donor’s name adorns the new $38 million ice arena visible from the Fireside Lounge’s south windows and the Kodak quad."
+		},
+		{
+			"position": {"lat" : 43.086027, "long": -77.675573},
+			"next": {"bausch and lomb" : 13,"bausch & lomb center" : 13, "bausch and lomb center" : 13},
+			"text": "This company donated to the admissions building you're currently at."
+		},
+		{
+			"position": {"lat" : 43.083739, "long": -77.679614},
+			"next": {"kate gleason" : 15, "gleason" : 15, "golisano college of computing and information science" : 19, "golisano college" : 19, "college of computing and information science" : 19, "computing and information science" : 19},
+			"text": "<b>Donors:</b> The College of Engineering, bearing this female engineer’s name, is connected to Golisano Hall by the skybridge.<br/><b>Colleges:</b> Inside this building is RIT’s newest college. Created in 2001, it offers a variety programs in technology related fields, such as: computer science, security, software engineering, game design, and geographic information systems. Enter this college’s name to access the next set of coordinates."
+		},
+		{
+			"position": {"lat" : 43.084327, "long": -77.677430},
+			"next": {"gordon" : 6, "lucius gordon" : 6, "infinity" : 7, "infinity quad" : 7},
+			"text": "<b>Donors:</b> This donor helped fund the construction of the Field House, a fitness facility that many students use daily.<br/><b>Colleges:</b> This quad is the center of the academic side of campus, with a statue of a mobius strip in the middle, where it gets its name."
+		},
+		{
+			"position": {"lat" : 43.084371, "long": -77.676479},
+			"next": {"cola" : 17, "cla" : 17, "college of liberal arts" : 17, "liberal arts" : 17},
+			"text": "The college located here offers a wide variety of programs, including (but certainly not limited to) psychology, economics, criminal justice, political science, and journalism. It was also the first college within RIT to offer a minors to students. Enter its name to reveal the next location."
+		},
+		{
+			"position": {"lat" : 43.085020, "long": -77.680086},
+			"next": {"cast" : 18, "college of applied science and technology" : 18, "applied science and technology" : 18},
+			"text": "Having been renamed several times over the course of its existence, the college housed at this location was once called Institute College, and is home to RIT's packaging science and sustainability programs. Enter this college’s name to reveal the next location."
+		},
+		{
+			"position": {"lat" : 43.083778, "long": -77.677232},
+			"next": {"college of science" : 14, "science" : 14},
+			"text": "The college located here has its roots in the algebra, physics and electricity courses offered by RIT as early as 1900. This college is currently home to the physics, chemistry, biology, mathematics, and imaging science departments. Enter its name to continue."
+		},
+		{
+			"position": {"lat" : 43.082979, "long": -77.676926},
+			"next": {"scob" : 20, "saunders college of business" : 20, "college of business" : 20, "business" : 20},
+			"text": "The college housed here is home to programs such as accounting, marketing and finance, and it bears the name of a local donor. Enter this college’s name to continue."
+		},
+		{
+			"position": {"lat" : 43.085890, "long": -77.677425},
+			"next": {"cias" : 15, "carlson center" : 15, "college of imaging arts and sciences" : 15, "imaging arts and sciences" : 15, "imaging science" : 15},
+			"text": "The program located in this building is part of a college that formed out of a combination of the schools of photography, printing, and design. Enter this college’s name to continue."
+		}
+	],
+	"current": 0
+}

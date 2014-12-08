@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CYOA Geocache</title>
+  <!-- Webapp meta tags -->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <style type="text/css">
+      html, body, #map-canvas { height: 100%; margin: 0; padding: 0; font-family: Verdana, Sans-serif;}
+    #map-container { height:calc(100% - 240px); width:100%;/* margin: 5px;*/}
+    nav {background-color: black; color: white; margin: 0; padding: 15px; text-align: right; height:20px}
+    nav a {color: inherit; text-decoration: none;}
+    nav ul {margin: inherit; list-style-type: none;}
+    nav li {display: inline; border: 1px solid #CCC; border-radius:4px; margin: 5px; padding: 5px;}
+	nav li:hover {box-shadow: 1px 1px 1px #CCC;}
+    section {padding: 1em; height: 85px;}
+    /*#controls, #info {margin:10px;}*/
+    </style>
+    <!-- Google Maps -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBvC2zwaD8budj8FL2X1niD2srmQYbToGA"></script>
+    <script src="game8.js">
+    </script>
+  </head>
+  <body>
+      <nav>
+        <ul>
+          <li><a href="help.htm">Help</a></li>
+        </ul>
+      </nav>
+      <div id="map-container">
+        <div id="map-canvas"></div>
+      </div>
+      <section>
+        <div id="info">
+          Next cache is at <span id="coords"></span><br />
+          Your position: <span id="pos"></span>
+        </div>
+        <div id="controls">
+          <form onsubmit="javascript:checkCode();return false;" >
+            <input id="secretCode" size=10>Enter code</input>
+            <button id="clicky">Check</button>
+            <button id="hint" onclick="hintPin(); return false;">Marker</button>
+          </form>
+        </div>
+        <div id="story"></div>
+      </section>
+  </body>
+</html>
